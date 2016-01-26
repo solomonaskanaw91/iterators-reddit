@@ -23,9 +23,6 @@ var postFilter = function(post) {
 }
 
 
-
-
-
 var filteredPosts = posts.filter(postFilter)
 
 console.log(filteredPosts)
