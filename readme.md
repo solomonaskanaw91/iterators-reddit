@@ -10,4 +10,4 @@ http://www.reddit.com/r/javascript.json
 1. `forEach` -  `console.log` all titles
 2. `map` - Return an array of permalinks, append `http://reddit.com` to each so that they contain full http:// path to reddit
 3. `filter` - Filter the posts that contain actual text in the  `selftext` key
-4. `reduce` - Use reduce to count all the `score` values across posts
+4. `reduce` - Use reduce to obtain the sum of all the `score` values across posts
