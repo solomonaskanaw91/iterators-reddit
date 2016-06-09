@@ -9,8 +9,8 @@ http://www.reddit.com/r/javascript.json
 
 * Fork and clone this repository
 * Run `npm install` to install dependencies
-* Create your solutions under `src/js/reddit.js`
-* Run `node src/js/reddit.js` to run the file
+* Create your solutions under `js/reddit.js`
+* Run `node js/reddit.js` to run the file
 * Run `npm run lint:js` to lint your code
 
 ## Deliverables
